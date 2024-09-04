@@ -1,9 +1,9 @@
-terraform {
-  cloud {
-    organization = "demitech"
+# terraform {
+#   cloud {
+#     organization = "demitech"
 
-    workspaces {
-      name = "mtc-dev"
-    }
-  }
-}
+#     workspaces {
+#       name = "mtc-dev"
+#     }
+#   }
+# }
